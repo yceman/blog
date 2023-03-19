@@ -1,0 +1,38 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Save the animals in the planet. Locate, find, adopt and more in this platform",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/blog.git"
+  },
+  "keywords": [
+    "Ruby",
+    "Animal",
+    "CSS",
+    "HTML",
+    "JS",
+    "Python",
+    "Locate",
+    "Find",
+    "Adopt",
+    "Save"
+  ],
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/blog/issues"
+  },
+  "homepage": "https://github.com/yceman/blog#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
